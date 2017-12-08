@@ -1,3 +1,26 @@
-# My Awesome Book
+# Git 简明教程 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> @lizhixian
+----
+
+hello guy
+
+welcome to G3
+
+欢迎来到git的世界
+
+如果你之前使用过git，如果你感觉这个教程有什么不妥的地方，欢迎指正；
+
+如果你没有用过git，甚至连版本管理系统都没用过，那么请你仔仔细细的读几遍，并多练习几遍。
+
+-------
+
+这个教程使用markdown编写的，如果你对 markdown 感兴趣，可以自行学习。PS. 因为太简单了，网上教程一堆，我相信你半天就能上手。
+
+>  git.md 是git基础知识的介绍。
+
+> 分支管理策略.md 是开发过程中，分支管理方法的介绍，这在你以后的工作中会频繁用到。
+
+git的功能十分强大，命令也非常多，别担心，你平时常用的指令不会超过10个。
+
+now, enjoy it...
